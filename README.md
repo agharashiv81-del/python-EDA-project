@@ -8,6 +8,7 @@ Each project focuses on analyzing real-world datasets to extract meaningful insi
 
 ## 📁 projects
 - Video Game Sales Analysis 🎮
+- Car Price Analysis 🚗 
 
 ## 🛠️ Tools Used
 - Python 🐍
